@@ -1,0 +1,1 @@
+# День <% Math.round(moment.duration(moment().startOf("day") - moment("2024-02-04")).asDays()) %>
