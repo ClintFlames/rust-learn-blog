@@ -1,2 +1,3 @@
-.obsidian
+.obsidian/plugins
+.obsidian/workspace.json
 .trash

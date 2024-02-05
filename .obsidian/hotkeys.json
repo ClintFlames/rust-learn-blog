@@ -1,0 +1,18 @@
+{
+	"obsidian-git:edit-gitignore": [
+		{
+			"modifiers": [
+				"Alt"
+			],
+			"key": "G"
+		}
+	],
+	"obsidian-git:open-git-view": [
+		{
+			"modifiers": [
+				"Alt"
+			],
+			"key": "F"
+		}
+	]
+}
